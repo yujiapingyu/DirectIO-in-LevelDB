@@ -7,4 +7,4 @@ In addition, you'd better set linux kernal vm.drop_caches = 3 every time you tes
 
 
 
-# 据大佬们反馈说是有内存泄漏问题，工作太忙实在没有时间细看，若有大佬有修复方案可以直接提issue反馈哈，省的我无人子弟了
+# 据大佬们反馈说是有内存泄漏问题，工作太忙实在没有时间细看，若有大佬有修复方案可以直接提issue反馈哈，我有点误人子弟了。。
